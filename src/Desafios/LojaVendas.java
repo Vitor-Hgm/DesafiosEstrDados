@@ -1,3 +1,5 @@
+package Desafios;
+
 import java.util.Scanner;
 
 public class LojaVendas {

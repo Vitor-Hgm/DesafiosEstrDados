@@ -1,4 +1,6 @@
 //Desafio 3 - Sitemas de Gerenciamento de Pedidos
+package Desafios;
+
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
